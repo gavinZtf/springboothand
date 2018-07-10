@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: springboothand
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.gavin
+Build-Jdk: 1.7.0_80
+Built-By: Gavin
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/springbootha
+ nd/
+
